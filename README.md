@@ -9,7 +9,7 @@ Todos os direitos de imagens são da Netflix, os dados, públicos, foram adquiri
 
 Projetos do curso [B7Web](https://b7web.com.br/)
 
-**Utilizado em aulas nos cursos:**
+**Utilizado em aulas nos cursos:**  
 _Dev FullStack JS da [Soitech](https://www.soitech.com.br/)_  
 _Disciplina Desenvolvimento WEB 2, curso ADS, do [IFSP](https://ifspcaraguatatuba.edu.br/), campus Caraguatatuba_
 
