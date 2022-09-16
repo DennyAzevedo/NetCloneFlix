@@ -1,16 +1,5 @@
-const API_KEY = '11111'; //api_key
+const API_KEY = '3a049488529131ffe44e5ecd90b2ca0d';
 const API_BASE = 'https://api.themoviedb.org/3';
-
-/*
-- originais da Netflix
-- recomendados (trending)
-- em alta (top rated)
-- ação
-- comédia
-- terror
-- romance
-- documentários
-*/
 
 const basicFetch = async (endpoint) => {
     const req = await fetch(`${API_BASE}${endpoint}`);
@@ -18,7 +7,7 @@ const basicFetch = async (endpoint) => {
     return json;
 }
 
-export default {
+const Tmdb = {
     getHomeList: async () => {
         return [
             {
@@ -83,3 +72,5 @@ export default {
 		return info
 	}
 }
+
+export default Tmdb

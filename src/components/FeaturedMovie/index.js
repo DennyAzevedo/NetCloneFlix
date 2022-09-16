@@ -3,7 +3,7 @@ import './FeaturedMovie.css';
 import PlayArrowIcon from '@mui/icons-material/PlayArrow';
 import AddIcon from '@mui/icons-material/Add';
 
-export default ({ item }) => {
+const FeaturedMovie = ({ item }) => {
 	
 	let firstDate = new Date(item.first_air_date)
 	let description = item.overview
@@ -60,3 +60,5 @@ export default ({ item }) => {
 		</section>
 	)
 }
+
+export default FeaturedMovie

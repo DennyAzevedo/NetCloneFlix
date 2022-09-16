@@ -1,7 +1,7 @@
 import React from 'react'
 import './Header.css'
 
-export default ({ black }) => {
+const Header = ({ black }) => {
 	return (
 		<header className={black ? 'black' : ''}>
 			<div className="header-logo">
@@ -15,3 +15,5 @@ export default ({ black }) => {
 		</header>
 	)
 }
+
+export default Header
