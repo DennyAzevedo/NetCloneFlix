@@ -10,7 +10,7 @@ _Disciplina Desenvolvimento WEB 2, curso ADS, do [IFSP](https://ifspcaraguatatub
 
 ### Tela Principal
 
-![Tela Principal](https://md.dev.br/img/TreinaAula/CloneNetFlixFE.png)
+![Tela Principal](https://mdcursos.dev.br/img/TreinaAula/CloneNetFlixFE.png)
 
 O projeto consiste de um Clone (FrontEnd) do site de streaming Netflix.  
 Todos os direitos de imagens são da Netflix.  
